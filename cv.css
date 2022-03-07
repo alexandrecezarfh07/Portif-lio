@@ -1,0 +1,62 @@
+.menu{
+    display: flex;
+    background-color: greenyellow;
+    justify-content: center;
+
+}
+
+
+.menor{
+    font-size: 15px;
+    padding: 1%;
+
+}
+
+.diminui h3{
+    font-size: 15px;
+}
+
+.back{
+    background-color: blueviolet;
+    text-shadow: rgb(255, 255, 225);
+    text-align: center;
+    padding: 3%;
+    font-family: 'Anton', sans-serif;
+}
+
+
+.menu li{
+    display: block;
+    padding: 15px;
+    text-align: center;
+    margin: 5%;
+    padding: 3%;
+}
+
+.formacao{
+    background-color: greenyellow;
+    padding: 3%;
+    
+}
+
+.roxo{
+    background-color: blueviolet;
+    padding: 3%;
+    
+}
+
+*{
+    padding: 0%;
+    margin: 0;
+}
+
+body{
+    font-family: 'Kanit', sans-serif;
+}
+
+.menu li:hover{
+font-size: 50px;
+background-color: white;
+border: 1px;
+border-radius: 15px;
+}
